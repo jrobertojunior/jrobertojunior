@@ -7,7 +7,7 @@ Olá! Sou José Roberto, programador de Recife.
 - 🚀 Sócio fundador da startup [@pocketfisio](https://www.instagram.com/pocketfisio)
 - 👨‍🔬 Alguns artigos publicados na minha época de [P&D](https://scholar.google.com/citations?user=vvG8AWYAAAAJ&hl=en&oi=sra)
 - 🤔 Curioso, acima de tudo
-- 📍 Recife, Brasil
+- 📍 Recife, Pernambuco
 
 #
 
