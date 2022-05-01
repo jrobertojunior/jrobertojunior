@@ -5,7 +5,8 @@ Olá! Sou José Roberto, programador de Recife.
 - 🎓 Estudante de Ciência da Computação, CIn-UFPE
 - 👨‍💻 Atualmente trabalhando como dev full stack
 - 🚀 Sócio fundador da startup [@pocketfisio](https://www.instagram.com/pocketfisio)
-- 👨‍🔬 Tenho experiência com [P&D](https://scholar.google.com/citations?user=vvG8AWYAAAAJ&hl=en&oi=sra)
+- 👨‍🔬 Alguns artigos publicados na minha época de [P&D](https://scholar.google.com/citations?user=vvG8AWYAAAAJ&hl=en&oi=sra)
+- 🤔 Curioso, acima de tudo
 - 📍 Recife, Brasil
 
 #
